@@ -3,9 +3,10 @@ This is an step by step animation of Fibonacci Search Algorithm  using the Tkint
 libraries in Python.The purpose of the project is to demonstrate the Fibonacci search algorithm, a search 
 technique based on the Fibonacci sequence, through an animated representation. The user can input an array size, 
 elements for the array, and a target element to be searched.
-
 Here is the working of the Animation with an Example:
-Size of the input array is 10. The smallest Fibonacci number greater than 10 is 13.Therefore, Fib = 13, Fib_m1 = 8, Fib_m2 = 5.We initialize offset = -1
+Size of the input array is 10. The smallest Fibonacci number greater than 10 is 13.Therefore, Fib = 13, Fib_m1 = 8, Fib_m2 = 5.
+We initialize offset = -1
+
 ![image](https://github.com/chaitanyatamira/FibonacciALGOAnimation/assets/125778105/bc5dddc3-e62d-4f97-987f-6ae6615cf1f2)
 ![image](https://github.com/chaitanyatamira/FibonacciALGOAnimation/assets/125778105/54305716-d5f4-407e-a396-5bcb25bf9807)
 
